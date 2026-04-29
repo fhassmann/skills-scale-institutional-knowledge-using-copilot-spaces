@@ -16,6 +16,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Smoke tests prepared
 
 ## Deployment Checklist
+
+For a comprehensive go/no-go gate, use the full [Release Readiness Checklist](octoacme-templates-release-readiness.md). The minimum steps are:
+
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests

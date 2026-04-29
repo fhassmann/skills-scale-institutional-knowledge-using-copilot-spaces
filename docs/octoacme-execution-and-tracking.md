@@ -37,4 +37,7 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register updated weekly — use the [Risk Register template](octoacme-templates-risk-register.md)
+- [ ] Definition of Done applied to every story — see [DoD template](octoacme-templates-definition-of-done.md)
+- [ ] Key decisions logged — use the [Decision Log template](octoacme-templates-decision-log.md)
+- [ ] Weekly status updates sent — use the [Status Update template](octoacme-templates-status-update.md)

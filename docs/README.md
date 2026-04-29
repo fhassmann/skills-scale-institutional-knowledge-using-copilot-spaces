@@ -27,6 +27,16 @@ OctoAcme follows a standardized, customer-centric project lifecycle:
 - [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 - [Roles & Personas](octoacme-roles-and-personas.md)
 
+## 📋 Templates & Checklists
+
+Reusable templates for key artifacts referenced throughout the process docs:
+
+- [Decision Log Template](octoacme-templates-decision-log.md) — record key project decisions with context, rationale, and status
+- [Risk Register Template](octoacme-templates-risk-register.md) — identify, score, and track risks with mitigation and contingency plans
+- [Definition of Done & Acceptance Criteria](octoacme-templates-definition-of-done.md) — shared quality standard for every story and release
+- [Weekly Status Update Template](octoacme-templates-status-update.md) — consistent format for stakeholder communication
+- [Release Readiness Checklist](octoacme-templates-release-readiness.md) — expanded go/no-go gate before every production deployment
+
 ## Roles & Personas
 
 | Role | Responsibility |
@@ -44,8 +54,11 @@ See [Roles & Personas](octoacme-roles-and-personas.md) for detailed persona defi
 - **Project Charter / One-pager** — Defines problem, goals, and stakeholders at project start
 - **Roadmap & Release Plan** — High-level timeline and milestone targets
 - **Sprint/Iteration Backlog** — Prioritized work items for each delivery cycle
-- **Acceptance Criteria & Definition of Done** — Standards for feature completion
-- **Risk Register** — Tracked risks, owners, and mitigations
+- **[Acceptance Criteria & Definition of Done](octoacme-templates-definition-of-done.md)** — Standards for feature completion
+- **[Risk Register](octoacme-templates-risk-register.md)** — Tracked risks, owners, and mitigations
+- **[Decision Log](octoacme-templates-decision-log.md)** — Key project decisions with context and rationale
+- **[Weekly Status Update](octoacme-templates-status-update.md)** — Consistent stakeholder communication format
+- **[Release Readiness Checklist](octoacme-templates-release-readiness.md)** — Go/no-go gate before production deployments
 - **Retrospective Notes & Action Items** — Learnings and improvements captured after each phase
 
 For a full overview, see [Project Management Overview](octoacme-project-management-overview.md).

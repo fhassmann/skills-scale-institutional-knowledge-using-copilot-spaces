@@ -31,13 +31,16 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Ensure team capacity is respected
 
 ## Risk & Dependency Management
-- Capture in Risk Register:
-  - ID, Description, Impact, Probability, Owner, Mitigation
+- Capture in [Risk Register](octoacme-templates-risk-register.md):
+  - ID, Description, Impact, Probability, Owner, Mitigation, Contingency
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+- Log key planning decisions in the [Decision Log](octoacme-templates-decision-log.md)
 
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
+- [ ] Definition of Done documented — use the [Definition of Done template](octoacme-templates-definition-of-done.md)
 - [ ] Initial test plan / QA approach drafted
+- [ ] Risk Register created — use the [Risk Register template](octoacme-templates-risk-register.md)
+- [ ] Decision Log created — use the [Decision Log template](octoacme-templates-decision-log.md)
