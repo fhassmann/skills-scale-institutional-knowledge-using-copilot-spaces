@@ -4,14 +4,10 @@
 Explain how to identify, manage, and communicate risks and dependencies.
 
 ## Risk Register
-Maintain a simple table with:
-- ID
-- Description
-- Impact (High/Med/Low)
-- Likelihood (High/Med/Low)
-- Owner
-- Mitigation plan
-- Status
+Maintain a risk register table throughout the project. Use the [Risk Register template](octoacme-templates-risk-register.md), which includes:
+- ID, Description, Category
+- Impact (High/Med/Low), Likelihood (High/Med/Low), Risk Score
+- Owner, Mitigation Plan, Contingency Plan, Status
 
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
@@ -25,7 +21,11 @@ Maintain a simple table with:
 - Use a single source of truth (project README or release doc) for status
 
 ## Communication Templates
-Weekly Status Template:
+See the [Weekly Status Update template](octoacme-templates-status-update.md) for a full, structured template including status indicators (🟢/🟡/🔴), milestone table, risk summary, and decisions log.
+
+Inline quick reference:
+
+Weekly Status:
 - Progress this week:
 - Next steps:
 - Risks & blockers:

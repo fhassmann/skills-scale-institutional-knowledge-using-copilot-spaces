@@ -21,11 +21,14 @@ Applies to all cross-functional projects that deliver product features, services
 - Stakeholders: provide inputs and approvals.
 
 ## Key Artifacts
-- Project Charter / One-pager
-- Roadmap and Release Plan
+- [Project Charter / One-pager](octoacme-project-initiation.md)
+- [Roadmap and Release Plan](octoacme-project-planning.md)
 - Sprint/Iteration Backlog
-- Acceptance Criteria & Definition of Done
-- Risk Register
+- [Acceptance Criteria & Definition of Done](octoacme-templates-definition-of-done.md)
+- [Risk Register](octoacme-templates-risk-register.md)
+- [Decision Log](octoacme-templates-decision-log.md)
+- [Weekly Status Update](octoacme-templates-status-update.md)
+- [Release Readiness Checklist](octoacme-templates-release-readiness.md)
 - Retrospective notes and action items
 
 ## Lifecycle (high-level)
@@ -44,3 +47,4 @@ Applies to all cross-functional projects that deliver product features, services
 ## How to use these docs
 - Keep the Project Charter updated in the project repo.
 - Add process-specific docs into `.copilot/` if you want Copilot Spaces to use them as context.
+- See the [Templates & Checklists](README.md#-templates--checklists) section of the docs README for reusable artifacts.
